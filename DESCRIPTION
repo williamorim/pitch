@@ -1,0 +1,15 @@
+Package: pitch
+Type: Package
+Title: Build a Soccer Pitch Using Echarts
+Version: 0.1.0
+Author: William Amorim
+Maintainer: William Amorim <thewilliam89@gmail.com>
+Description: Build interactive soccer pitch visualizations using the Apache
+    ECharts JavaScript library through the htmlwidgets framework.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    htmltools,
+    htmlwidgets
+RoxygenNote: 7.2.3
